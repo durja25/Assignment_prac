@@ -1,3 +1,4 @@
+package misc;
 /*
  * Enum improves type safety
  * Enum can be easily used in switch
